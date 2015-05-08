@@ -1,6 +1,8 @@
 µSlider - a jQuery plugin.
 ==========================
 
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 A *micro*plugin for making a content sliding rotator.
 
 ### Usage ###
